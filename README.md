@@ -11,3 +11,9 @@ Nesse Curso Grátis de PHP para Iniciantes, você vai aprender os primeiros pass
 tecnologia PHP incorporada. Para isso, aprenderá como instalar um servidor, criar scripts básicos, interatividade com
 formulários e acesso a bancos de dados simples. No final, vai aprender como colocar seu site no ar utilizando um
 servidor profissional de hospedagem.
+
+================================================================================================================================================================
+
+Para abrir os arquivos criados durante as aulas, iniciamos o "Apache Web Server" e o "mySQL" no "XAMPP", em seguida
+abrimos o navegador e digitamos "http://localhost/curso_php/".
+
